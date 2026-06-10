@@ -1,4 +1,4 @@
-
+IVPN premium Plugin: tracker-blocker & DNS-leak-protection offers the most advanced IVPN plugin, with tracker-blocker and DNS-leak-protection. Ideal for users who value privacy
 
 
 
